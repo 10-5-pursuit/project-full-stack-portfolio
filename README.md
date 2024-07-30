@@ -82,7 +82,7 @@ When you submit your pull request, _make sure to include a description of any st
 Points will be allocated in this section at the discretion of the instructor.
 
 
-## Presentation: Video Recording
+## Presentation: Live @ HQ
 
 We will be presenting our projects live, as presenting is another skill you must get comfortable with. Eventually you will be walking prospective employers through your work. You need to be able to articulate what your problem your project solves, what features a user can expect to see on your application, as well as explain the code that powers your application.
 
