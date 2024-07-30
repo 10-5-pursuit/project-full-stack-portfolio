@@ -4,13 +4,14 @@ This project is designed to test all of the skills you've learned so far. By the
 
 ## Project scoring
 
-This project has three different parts on which you will be graded. Each part is weighted differently.
+This project has four different parts on which you will be graded. Each part is weighted differently.
 
-- 70% of the project is scored on **completion**.
+- 50% of the project is scored on **completion**.
 - 20% of the project is scored through the **mastery rubric**.
 - 10% of the project is scored through **stretch goals**.
+- 20% of the project is scored through **live presentation**
 
-In total, you must receive at least 70% to complete this project. For example, you could attain 55% of points through the completion requirements, 10% of points through the mastery rubric, and 5% of points through the stretch goals.
+In total, you must receive at least 70% to complete this project. For example, you could attain 40% of points through the completion requirements, 10% of points through the mastery rubric, and 5% of points through the stretch goals, 15% of points through the presentation rubric.
 
 ### Completion
 
@@ -76,8 +77,19 @@ When you submit your pull request, _make sure to include a description of any st
 - Visually allow for interacting with a second resource from the front-end.
 - Allow for a list of "favorite" resources that are stored locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 - Make your application responsive to different kinds of devices.
+- Add unit tests.
 
 Points will be allocated in this section at the discretion of the instructor.
+
+
+## Presentation: Video Recording
+
+We will be presenting our projects live, as presenting is another skill you must get comfortable with. Eventually you will be walking prospective employers through your work. You need to be able to articulate what your problem your project solves, what features a user can expect to see on your application, as well as explain the code that powers your application.
+
+### Requirements:
+- Your presentation must be live.
+- Your presentation must be at least **three** minutes long.
+- A good presentation will cover each of the sections on this [rubric](https://pursuit.instructure.com/courses/180/assignments/2483). 
 
 ## Getting started
 
